@@ -38,4 +38,7 @@ int[] liczby={ liczba,liczba1,liczba2,liczba3,1,8,2,8,9,10};
 //        System.out.println(algorytm.jakaLiczba(liczba)+"\n");
 //        System.out.println(algorytm.sumaParz(liczby));
 //        System.out.println(algorytm.sumaParz());
+
+        Lista nowaLista = new Lista();
+        nowaLista.szukajZero();
 }}
